@@ -12,12 +12,11 @@ st.set_page_config(
 )
 
 # WELCOME PAGE TITLE
-st.title("Welcome to the Data Dashboard! 📊")
+st.title("Welcome to the Anime Data Dashboard!")
 
 # INTRODUCTORY TEXT
 st.write("""
-This application is designed to collect and visualize data.
-You can navigate to the different pages using the sidebar on the left.
+This app collects and visualizes anime data. You can navigate to the different pages using the sidebar on the left.
 
 ### How to use this app:
 - **Survey Page**: Go here to input new data into our CSV file.
